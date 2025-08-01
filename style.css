@@ -1,0 +1,49 @@
+.pfp {
+  height: 30px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+.hero{
+  height: 500px;
+   background: #005C97;  /* fallback for old browsers */
+   background: -webkit-linear-gradient(to right, #363795, #005C97);  /* Chrome 10-25, Safari 5.1-6 */
+   background: linear-gradient(to right, #363795, #005C97); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+   color: aliceblue;
+}
+.hero img{
+  height: 250px;
+  width: 250px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+.professional p{
+  text-align: justify;
+}
+
+.hero h2{
+  padding-bottom:10px ;
+  text-align: center;
+}
+
+.foot{
+   background: #005C97;  /* fallback for old browsers */
+   background: -webkit-linear-gradient(to right, #363795, #005C97);  /* Chrome 10-25, Safari 5.1-6 */
+   background: linear-gradient(to right, #363795, #005C97); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+   color: aliceblue;
+   
+}
+
+.contact{
+  display:block;
+  height: 200px;
+  text-align: center;
+}
+
+.btn{
+  background: #005C97;  /* fallback for old browsers */
+   background: -webkit-linear-gradient(to right, #363795, #005C97);  /* Chrome 10-25, Safari 5.1-6 */
+   background: linear-gradient(to right, #363795, #005C97);
+   color: aliceblue;
+   font-weight: bolder;
+}
